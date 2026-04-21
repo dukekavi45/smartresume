@@ -1,0 +1,221 @@
+company,category,job_title,job_description,skills
+Accenture,IT,Backend Engineer,Build scalable backend services,python sql docker
+Infosys,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Axis Bank,NON-IT,Web Developer,Develop responsive web applications,html css javascript react
+CBSE School,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Fortis Healthcare,NON-IT,Software Developer,Develop and maintain software applications,python java sql git
+L&T,NON-IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+Apollo Hospitals,NON-IT,Backend Engineer,Build scalable backend services,python sql docker
+PayPal,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+Wipro,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Flipkart,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+Amazon,IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+Delhivery,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+PhonePe,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+L&T,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+HP,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+HDFC Bank,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+AIIMS,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+HCL,IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Freshworks,IT,Software Developer,Develop and maintain software applications,python java sql git
+Stripe,IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+IBM,NON-IT,Teacher,Teach and mentor students,teaching communication
+Tech Mahindra,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Zomato,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Capgemini,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+TVS Motors,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Razorpay,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Wipro,IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+SAP,IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+SBI,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+SBI,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Byjus,IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+IIT Madras,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+Accenture,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Zoho,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+Tech Mahindra,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+PhonePe,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Paytm,NON-IT,Teacher,Teach and mentor students,teaching communication
+Fortis Healthcare,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+Airbnb,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+DHL,NON-IT,Backend Engineer,Build scalable backend services,python sql docker
+SAP,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+PayPal,IT,Software Developer,Develop and maintain software applications,python java sql git
+Byjus,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Tech Mahindra,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Fortis Healthcare,NON-IT,Software Developer,Develop and maintain software applications,python java sql git
+Freshworks,IT,Software Developer,Develop and maintain software applications,python java sql git
+Reliance Retail,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Google,IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Apollo Hospitals,NON-IT,Teacher,Teach and mentor students,teaching communication
+DTDC,NON-IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+CBSE School,NON-IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+Paytm,IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+Indian Bank,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Intel,IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+Apple,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Intel,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Tata Motors,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+DHL,NON-IT,Web Developer,Develop responsive web applications,html css javascript react
+Axis Bank,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+DTDC,NON-IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+Axis Bank,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+Byjus,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Ashok Leyland,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+Blue Dart,NON-IT,Software Developer,Develop and maintain software applications,python java sql git
+Oracle,NON-IT,Teacher,Teach and mentor students,teaching communication
+Swiggy,NON-IT,Teacher,Teach and mentor students,teaching communication
+Oracle,IT,Backend Engineer,Build scalable backend services,python sql docker
+Zomato,IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Government Hospital,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Indian Bank,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Axis Bank,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+IIT Madras,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Dell,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Capgemini,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+Delhivery,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Blue Dart,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Ashok Leyland,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Infosys,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+Netflix,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+PayPal,NON-IT,Teacher,Teach and mentor students,teaching communication
+ICICI Bank,NON-IT,Backend Engineer,Build scalable backend services,python sql docker
+Byjus,IT,Web Developer,Develop responsive web applications,html css javascript react
+Freshworks,IT,Web Developer,Develop responsive web applications,html css javascript react
+Ola,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Government Hospital,NON-IT,Teacher,Teach and mentor students,teaching communication
+Canara Bank,NON-IT,Backend Engineer,Build scalable backend services,python sql docker
+Capgemini,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+HCL,IT,Backend Engineer,Build scalable backend services,python sql docker
+IBM,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Capgemini,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Microsoft,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+FedEx,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+PayPal,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Adobe,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+Indian Bank,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Meta,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Adobe,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Stripe,IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Apollo Hospitals,NON-IT,Teacher,Teach and mentor students,teaching communication
+Dell,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Microsoft,IT,Software Developer,Develop and maintain software applications,python java sql git
+Zomato,IT,Backend Engineer,Build scalable backend services,python sql docker
+Anna University,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Dell,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+HDFC Bank,NON-IT,Web Developer,Develop responsive web applications,html css javascript react
+Accenture,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Delhivery,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+DAV School,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+Ashok Leyland,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+Apollo Hospitals,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+TCS,IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+TCS,IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Dell,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Amazon,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Flipkart,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Airbnb,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+HDFC Bank,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Tata Motors,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Nvidia,IT,Software Developer,Develop and maintain software applications,python java sql git
+Intel,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+Reliance Retail,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+Canara Bank,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Paytm,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Google,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+Stripe,IT,Backend Engineer,Build scalable backend services,python sql docker
+Zoho,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Cognizant,IT,Backend Engineer,Build scalable backend services,python sql docker
+PhonePe,IT,Backend Engineer,Build scalable backend services,python sql docker
+SBI,NON-IT,Software Developer,Develop and maintain software applications,python java sql git
+Airbnb,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+Wipro,NON-IT,Teacher,Teach and mentor students,teaching communication
+FedEx,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Accenture,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+ICICI Bank,NON-IT,Backend Engineer,Build scalable backend services,python sql docker
+Infosys,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Razorpay,IT,Web Developer,Develop responsive web applications,html css javascript react
+IBM,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+Stripe,IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+Tata Motors,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+Airbnb,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+Zoho,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Ola,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Uber,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Anna University,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+TVS Motors,NON-IT,Backend Engineer,Build scalable backend services,python sql docker
+Oracle,IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+Government Hospital,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Freshworks,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Amazon,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+IIT Madras,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Microsoft,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Razorpay,NON-IT,Teacher,Teach and mentor students,teaching communication
+Cognizant,IT,Web Developer,Develop responsive web applications,html css javascript react
+Ashok Leyland,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+L&T,NON-IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+HP,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+Google,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Government Hospital,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Amazon,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Adobe,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+TVS Motors,NON-IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+Microsoft,IT,Backend Engineer,Build scalable backend services,python sql docker
+HDFC Bank,NON-IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+Bajaj Auto,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+TCS,IT,Web Developer,Develop responsive web applications,html css javascript react
+Swiggy,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Apple,NON-IT,Teacher,Teach and mentor students,teaching communication
+Ola,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Anna University,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+FedEx,NON-IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+Blue Dart,NON-IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+Meta,IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+Canara Bank,NON-IT,Teacher,Teach and mentor students,teaching communication
+HP,NON-IT,Teacher,Teach and mentor students,teaching communication
+IBM,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+AIIMS,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+Infosys,IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+Reliance Retail,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Zomato,IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+Nvidia,IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+HP,NON-IT,Accountant,Maintain financial records,accounting tally gst excel
+IIT Madras,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+Anna University,NON-IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+Nvidia,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Wipro,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+HCL,IT,Web Developer,Develop responsive web applications,html css javascript react
+Netflix,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+CBSE School,NON-IT,Web Developer,Develop responsive web applications,html css javascript react
+Uber,NON-IT,Logistics Executive,Manage logistics operations,logistics coordination inventory
+Tech Mahindra,NON-IT,Teacher,Teach and mentor students,teaching communication
+Indian Bank,NON-IT,Teacher,Teach and mentor students,teaching communication
+SAP,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+Delhivery,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+Ola,IT,Backend Engineer,Build scalable backend services,python sql docker
+Fortis Healthcare,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Blue Dart,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Zoho,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Apple,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Swiggy,IT,DevOps Engineer,Manage CI/CD pipelines and cloud infrastructure,aws docker linux git
+Meta,NON-IT,Staff Nurse,Provide patient care,nursing patient-care healthcare
+DTDC,NON-IT,Business Analyst,Analyze business processes,analysis excel documentation
+Tata Motors,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+DAV School,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+Bajaj Auto,NON-IT,Backend Engineer,Build scalable backend services,python sql docker
+DHL,NON-IT,ML Engineer,Build and deploy machine learning models,python machine-learning tensorflow
+DAV School,NON-IT,Operations Manager,Manage operations and teams,management leadership planning
+Reliance Retail,NON-IT,Software Developer,Develop and maintain software applications,python java sql git
+Netflix,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+Meta,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Nvidia,IT,Web Developer,Develop responsive web applications,html css javascript react
+Cognizant,IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+Netflix,IT,Data Analyst,Analyze data and generate insights,python pandas sql excel
+AIIMS,NON-IT,Web Developer,Develop responsive web applications,html css javascript react
+Canara Bank,NON-IT,Teacher,Teach and mentor students,teaching communication
+FedEx,NON-IT,Web Developer,Develop responsive web applications,html css javascript react
+TVS Motors,NON-IT,HR Executive,Handle recruitment and HR operations,communication recruitment hrms
+Bajaj Auto,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Uber,NON-IT,Civil Engineer,Manage construction projects,autocad construction surveying
+Google,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
+SBI,NON-IT,Mechanical Engineer,Design mechanical systems,autocad solidworks manufacturing
